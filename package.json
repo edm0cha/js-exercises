@@ -1,0 +1,23 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "This Repository contains different JavaScript Exercises from easy to medium difficulty",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacked7/js-exercises.git"
+  },
+  "author": "Marlen G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacked7/js-exercises/issues"
+  },
+  "homepage": "https://github.com/blacked7/js-exercises#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
+}

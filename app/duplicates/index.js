@@ -1,6 +1,6 @@
  /**
-  * @param {string} s
-  * @return {number}
+  * @param {array} numbers
+  * @return {boolean}
   */
 exports.checkDuplicates = numbers => {
   var seen = new Array(numbers.length).fill(false);
