@@ -1,4 +1,4 @@
-# Duplicate Numbers in Array
+# In Parenthesis
 
 This Program verify a string of parenthesis of a string based on this characters '()', '{}', '[]', for every opened parenthesis it should be a close character.
 
